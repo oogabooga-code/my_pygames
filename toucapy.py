@@ -1,6 +1,8 @@
 import pygame
 import random
 
+#screen settings
+
 screen = pygame.display.set_mode((w, h))
 clock = pygame.time.Clock()
 
