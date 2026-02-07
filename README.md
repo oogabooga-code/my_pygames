@@ -6,14 +6,15 @@ this is my first game with pygame in python.
 - Do i need to download something?????
   you dont to install anything. But you need to install pygame(that's it)
   watch a tutorial that tells you how to install it
+-please like it, i have even better games comming
 
   -_-_-_-_-_-_-_-_-_-
-  All the stuff about it:
+   All the stuff about it:
   _-_-_-_-_-_-_-_-_-_
 
 import pygame
 import random
-# you just import pygame and random for a lot of stuff.
+#you just import pygame and random for a lot of stuff.
 
 pygame.init()
 #initialize pygame
@@ -91,5 +92,5 @@ screen.fill((40,40,50))
   comment if you find some errors!
   --------------------
 
-    YOU                                                     ME
+  ..YOU                                                      ME..
   /( 'o')\ :(i wonder if the game is good!) (Yes it is!): /(0-0 )\
