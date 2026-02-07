@@ -8,9 +8,9 @@ this is my first game with pygame in python.
   watch a tutorial that tells you how to install it
 -please like it, i have even better games comming
 
-  -_-_-_-_-_-_-_-_-_-
+  ___________________
    All the stuff about it:
-  _-_-_-_-_-_-_-_-_-_
+  ___________________
 
 import pygame
 import random
