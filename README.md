@@ -92,6 +92,6 @@ that's all. hope you will like my game!
 comment if you find some errors!
   --------------------
 
-  ..YOU                                                      ME..
+  ..YOU......................................................ME..
   
   /( 'o')\ :(i wonder if the game is good!) (Yes it is!): /(0-0 )\
