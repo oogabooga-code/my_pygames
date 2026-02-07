@@ -1,11 +1,14 @@
 import pygame
 import random
 
-w, h = 400, 500
+pygame.init()
+w, h = 500, 600
+
+font = pygame.font.SysFont(None, 40)
 screen = pygame.display.set_mode((w, h))
 clock = pygame.time.Clock()
 
-
+player = pygame.Rect(w // 2 - 190, h - 40, 80, 20)
 item = pygame.Rect(random.randint(0, w-20), -20, 20, 20)
 score = 0
 
@@ -52,6 +55,4 @@ while run:
     pygame.display.flip()
     clock.tick(60)
 
-
 pygame.quit()
-
