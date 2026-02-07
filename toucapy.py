@@ -11,7 +11,6 @@ score = 0
 
 run = True
 while run:
-    pygame.display.toggle_fullscreen()
     for e in pygame.event.get():
         if e.type == pygame.QUIT: run = False
 
@@ -55,3 +54,4 @@ while run:
 
 
 pygame.quit()
+
