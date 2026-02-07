@@ -88,9 +88,10 @@ screen.fill((40,40,50))
   pygame.quit()
 
   --------------------
-  that's all. hope you will like my game!
-  comment if you find some errors!
+that's all. hope you will like my game!
+comment if you find some errors!
   --------------------
 
   ..YOU                                                      ME..
+  
   /( 'o')\ :(i wonder if the game is good!) (Yes it is!): /(0-0 )\
