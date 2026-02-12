@@ -13,8 +13,8 @@ ___________________________________
 My_Python-codes is used to show you codes that can make cool stuff and that you can acess it.
 You can see Python in My_Python-codes. So i use python.
 
-#('0') ('0') ('0') ('0') ('0') ('0') ('0') ('0') ('0') ('0') ('0') ('0')        ('-' ) ( '-') \('o' )/
-AND DO NOT ASK TO MAKE A CODE OUT OF SCRATCH OR SOMETHING ELSE THEN PYTHON!                 What are they talking about?
+#('0') ('0') ('0') ('0') ('0') ('0') ('0') ('0') ('0') ('0') ('0') ('0')
+AND DO NOT ASK TO MAKE A CODE OUT OF SCRATCH OR SOMETHING ELSE THEN PYTHON! 
 
 Like if you want to make a simple game of dodging the projectiles, i can do it if you ask me.
 but do not make it super complex like Zelda or Mario or Minecraft
