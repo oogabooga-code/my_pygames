@@ -36,3 +36,15 @@ anyways but i should consider using ||||||| Visual Studio code |||||||
 \(0-0 )/ /( 0o0)\
 \(0-0 )/ /( 0o0)\
 \(0-0 )/ /( 0o0)\
+
+
+And my dear viewer, heres some images of the Caucasus:(for no reason):
+
+<img width="845" height="686" alt="image" src="https://github.com/user-attachments/assets/8d71074a-6904-4e24-9fea-42a3920fa677" />
+Look! My country Georgia!(not the state)
+
+<img width="2560" height="1920" alt="image" src="https://github.com/user-attachments/assets/6dc438a4-105a-450d-a604-59484729c689" />
+
+<img width="500" height="272" alt="image" src="https://github.com/user-attachments/assets/5ea3eb1f-1157-4b1e-a24a-232666578681" />
+
+That's it. Bye!
